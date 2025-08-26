@@ -1,9 +1,9 @@
 async def get_tips_wallets():
     # TODO: DATA from DB
 
-    EVM = "0xA1b2C3d4E5F678901234567890abcdef12345678"
-    BTC = "bc1qw508d6qejxtdg4y5r3zarvary0c5xw7k4x3jhd"
-    XMR = "47zQ5Vf1VnX8DcTq9kPv1zy4oXMt3M2nLk9gJKdVWy4HVtVygfdoJw5ewvYXqqN7s9VZqqVSTiZ2hFZxYA9DgbxR1pLxg5t"
+    EVM = ""
+    BTC = ""
+    XMR = ""
     return EVM, BTC, XMR
 
 
